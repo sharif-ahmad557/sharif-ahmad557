@@ -51,12 +51,6 @@ I’m a passionate Full Stack Developer specializing in the MERN stack, dedicate
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
 </a>
-</p>
-
----
-
-## ⚛️ Frontend Frameworks / Libraries
-<p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40"/>
 </a>
@@ -72,17 +66,11 @@ I’m a passionate Full Stack Developer specializing in the MERN stack, dedicate
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40"/>
 </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
+</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
-</a>
-</p>
-
----
-
-## 🧰 Backend Frameworks
-<p align="left">
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
 </a>
 </p>
 
