@@ -10,7 +10,7 @@
 
 
  <p align="center">
-    <img src="https://i.postimg.cc/qv01XBRL/527888764-1405064844088763-7204923006802657887-n.jpg" />
+    <img src="https://i.postimg.cc/Xq4GyHKG/Whats-App-Image-2025-11-19-at-15-56-30-85560075.jpg" />
       </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharif-ahmad557&label=Profile%20views&color=0e75b6&style=flat" alt="sharif-ahmad557" /> </p>
