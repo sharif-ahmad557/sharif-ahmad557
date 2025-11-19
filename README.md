@@ -1,11 +1,11 @@
 
-<p align="center">
-  <img src="https://i.postimg.cc/CMXyN0Cb/istockphoto-1371339413-612x612.jpg" alt="Banner" width="100%" height="50%/>
-</p>
+
+  <p >
+    <img src="https://i.postimg.cc/CMXyN0Cb/istockphoto-1371339413-612x612.jpg" width="100%" height="50%"/>
+      </p>
 
 
-
-# 👋 Hi there! I'm Shariful Islam
+<h1 align="center">👋 Hi there! I'm Shariful Islam</h1>
 <h3 align="center">Web Developer in Training | Programming Hero Batch 12</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharif-ahmad557&label=Profile%20views&color=0e75b6&style=flat" alt="sharif-ahmad557" /> </p>
