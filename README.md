@@ -112,38 +112,12 @@ React, react-router, tailwindcss, Firebase
 
 
 
-# SoftSphere Studio
 
-![Screenshot](https://i.postimg.cc/jjT1LdH3/screencapture-stately-bienenstitch-00f010-netlify-app-2025-11-19-14-09-27.png)
 
-## Overview
-SoftSphere Studio is a professional, company-style web application designed to showcase services, portfolio projects, and client-focused solutions. It allows users to explore the company’s offerings, view detailed project showcases, and get in touch seamlessly. The platform features a responsive design for smooth experience across devices and emphasizes modern UI/UX practices. Built with the MERN stack and Firebase integration, it ensures efficient performance and easy content management for both users and administrators.
 
 ## Features
 - Service showcase with images  
 - Portfolio gallery  
 - Contact form  
 - Responsive UI  
-
-## Tech Stack
-Node.js, Express, React, React Router, Tailwind CSS, Firebase
-
-## Dependencies
-- react  
-- react-dom  
-- react-router-dom  
-- tailwindcss  
-- node  
-- express  
-- firebase
-
-## Installation
-1. Clone the repo: `git clone https://github.com/sharif-ahmad557/softsphere-studio.git`  
-2. Install dependencies: `npm instal`  
-3. Run client: `npm run dev`  
-
-## Live Demo
-[Click here to see live](https://stately-bienenstitch-00f010.netlify.app/)
-
-
 
