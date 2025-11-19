@@ -37,7 +37,7 @@ I’m a passionate Full Stack Developer specializing in the MERN stack, dedicate
 </p>
 
 
-## Languages and Tools
+## 🎨 Frontend
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
@@ -51,22 +51,41 @@ I’m a passionate Full Stack Developer specializing in the MERN stack, dedicate
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
 </a>
+</p>
+
+---
+
+## ⚛️ Frontend Frameworks / Libraries
+<p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40"/>
 </a>
+</p>
+
+---
+
+## 🖥️ Backend
+<p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="40"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
 </a>
 </p>
+
+---
+
+## 🧰 Backend Frameworks
+<p align="left">
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
+</a>
+</p>
+
 
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharif-ahmad557&show_icons=true&locale=en&layout=compact" alt="sharif-ahmad557" /></p>
