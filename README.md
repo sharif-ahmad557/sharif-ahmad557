@@ -68,10 +68,10 @@ I’m a passionate Full Stack Developer specializing in the MERN stack, dedicate
 
 # Movie Master Studio
 
-![Screenshot]([https://via.placeholder.com/800x400?text=Movie+Master+Studio+Screenshot](https://i.postimg.cc/HxJCzhFv/screencapture-roaring-tiramisu-bd059b-netlify-app-2025-11-19-14-11-07.png))
-
+![Screenshot](https://i.postimg.cc/HxJCzhFv/screencapture-roaring-tiramisu-bd059b-netlify-app-2025-11-19-14-11-07.png)
 ## Overview
-A full-stack movie management platform where users can explore, add, update, and review movies.
+Movie Master Studio is a full-stack movie management platform built with the MERN stack. Users can browse and explore a wide collection of movies, add new movies, edit existing ones, and submit their reviews. The platform offers an intuitive interface for managing movie details efficiently. It also features user authentication and a responsive design for seamless experience across devices.
+
 
 ## Features
 - User Authentication with Firebase  
@@ -84,7 +84,6 @@ React, Tailwind CSS, Node.js, Express, MongoDB, Firebase
 
 ## Dependencies
 - react-router-dom  
-- axios  
 - express  
 - mongoose  
 - firebase  
@@ -92,8 +91,8 @@ React, Tailwind CSS, Node.js, Express, MongoDB, Firebase
 ## Installation
 1. Clone the repo: `git clone https://github.com/sharif-ahmad557/movie-master-studio.git`  
 2. Install dependencies: `npm install`  
-3. Run server: `npm run server`  
-4. Run client: `npm start`  
+3. Run server: `nodemon index.js`  
+4. Run client: `npm run deb`  
 
 ## Live Demo
 [Click here to see live](https://roaring-tiramisu-bd059b.netlify.app/)
@@ -102,10 +101,10 @@ React, Tailwind CSS, Node.js, Express, MongoDB, Firebase
 
 # Local Skill Platform
 
-![Screenshot](https://via.placeholder.com/800x400?text=Local+Skill+Platform+Screenshot)
+![Screenshot](https://i.postimg.cc/7P5KP2v6/screencapture-spiffy-concha-131570-netlify-app-2025-11-19-14-12-07.png)
 
 ## Overview
-A platform connecting local skilled workers with users who need services.
+Local Skill Platform is a user-friendly web application that connects local skilled professionals with users seeking specific services. It allows users to browse available skills, view worker profiles, and hire professionals seamlessly. The platform includes features for adding new services, rating and reviewing workers, and managing bookings efficiently. Built with the MERN stack and Firebase for authentication, it ensures a secure, responsive, and smooth experience across devices. This project emphasizes practical usability and real-world service management.
 
 ## Features
 - User & Worker Authentication  
@@ -114,13 +113,12 @@ A platform connecting local skilled workers with users who need services.
 - Admin panel for management  
 
 ## Tech Stack
-React, Node.js, Express, MongoDB, Firebase
+React, react-router, tailwindcss, Firebase
 
 ## Dependencies
-- react-router-dom  
-- axios  
-- express  
-- mongoose  
+- react-router-dom
+- tailwindcss
+- react
 - firebase  
 
 ## Installation
@@ -136,10 +134,10 @@ React, Node.js, Express, MongoDB, Firebase
 
 # SoftSphere Studio
 
-![Screenshot](https://via.placeholder.com/800x400?text=SoftSphere+Studio+Screenshot)
+![Screenshot](https://i.postimg.cc/jjT1LdH3/screencapture-stately-bienenstitch-00f010-netlify-app-2025-11-19-14-09-27.png)
 
 ## Overview
-A professional company-style web application showcasing services, portfolio, and client-focused features.
+SoftSphere Studio is a professional, company-style web application designed to showcase services, portfolio projects, and client-focused solutions. It allows users to explore the company’s offerings, view detailed project showcases, and get in touch seamlessly. The platform features a responsive design for smooth experience across devices and emphasizes modern UI/UX practices. Built with the MERN stack and Firebase integration, it ensures efficient performance and easy content management for both users and administrators.
 
 ## Features
 - Service showcase with images  
@@ -148,7 +146,7 @@ A professional company-style web application showcasing services, portfolio, and
 - Responsive UI  
 
 ## Tech Stack
-Node.js, Express, MongoDB, React, React Router, Tailwind CSS, Firebase
+Node.js, Express, React, React Router, Tailwind CSS, Firebase
 
 ## Dependencies
 - react  
@@ -157,13 +155,12 @@ Node.js, Express, MongoDB, React, React Router, Tailwind CSS, Firebase
 - tailwindcss  
 - node  
 - express  
-- mongoose  
 - firebase
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/sharif-ahmad557/softsphere-studio.git`  
-2. Install dependencies: `npm install`  
-3. Run client: `npm start`  
+2. Install dependencies: `npm instal`  
+3. Run client: `npm run dev`  
 
 ## Live Demo
 [Click here to see live](https://stately-bienenstitch-00f010.netlify.app/)
