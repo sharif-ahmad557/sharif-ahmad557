@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shariful islam</h1>
+<h1 align="center">👋 Hi there! I'm Shariful islam</h1>
 <h3 align="center">Web Developer in Training | Programming Hero Batch 12</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-ahmad557&label=Profile%20views&color=0e75b6&style=flat" alt="sharif-ahmad557" /> </p>
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently working on: MERN Stack Projects & React Development [movie master studio](https://roaring-tiramisu-bd059b.netlify.app/)
+- 🔭 I'm currently working on: MERN Stack Projects & React Development [Softsphere-Studio](https://stately-bienenstitch-00f010.netlify.app/)
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB • Express • React • Node.js) through Programming Hero – Batch 12**
 
 - 👯 I'm looking to collaborate on: Open-source MERN or Firebase-based projects [Local skill platfrom](https://spiffy-concha-131570.netlify.app/)
 
-- 🤝 I'm looking for help with: Advanced Node.js & Performance Optimization [Softsphere-Studio](https://stately-bienenstitch-00f010.netlify.app/)
+- 🤝 I'm looking for help with: Advanced Node.js & Performance Optimization [movie master studio](https://roaring-tiramisu-bd059b.netlify.app/)
 
 - 💬 Ask me about: **Web Development, MERN Stack, React, Firebase, Node.js, Express, MongoDB**
 
