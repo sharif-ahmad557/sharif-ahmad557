@@ -8,11 +8,6 @@
 <h1 align="center">👋 Hi there! I'm Shariful Islam</h1>
 <h3 align="center">Web Developer in Training | Programming Hero Batch 12</h3>
 
-
- <p align="center">
-    <img src="https://i.postimg.cc/dQRQt7w5/profile.png" />
-      </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharif-ahmad557&label=Profile%20views&color=0e75b6&style=flat" alt="sharif-ahmad557" /> </p>
 
 I’m a passionate Full Stack Developer specializing in the MERN stack, dedicated to building scalable, maintainable, and user-friendly web applications. I enjoy transforming complex problems into intuitive digital solutions, always keeping the user experience at the forefront. Currently advancing my skills through Programming Hero Batch 12, I continuously learn and adapt to new technologies to deliver high-quality code and innovative features. I’m open to collaborative projects and opportunities that challenge me to grow while making a meaningful impact in the world of web development.
