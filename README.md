@@ -1,8 +1,10 @@
-
-
-  <p align="center"
-    <img src="https://i.postimg.cc/KzPrgQNp/images.jpg"/>
-      </p>
+<p align="center">
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozv2CMoVxg-8X4nRk7FrV0rEjBkPeLcCbeA&s"
+    width="100%"
+    height="50%"
+  />
+</p>
 
 
 <h1 align="center">👋 Hi there! I'm Shariful Islam</h1>
